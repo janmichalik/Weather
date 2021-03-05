@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Statystyki pogodowe</string>
+    <string name="settings">Ustawienia</string>
+    <string name="refresh">Odśwież</string>
+    <string name="loading">Pobieranie prognozy…</string>
+</resources>
